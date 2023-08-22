@@ -36,7 +36,7 @@ You can visit the live version of the website at [https://www.your-portfolio-web
 
 To run the website locally on your machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/your-portfolio-website.git`
+1. Clone this repository: `git clone https://github.com/KetanKarki/My-Portfolio-Website.git`
 2. Navigate to the project directory: `cd your-portfolio-website`
 3. Type npm start or yarn run dev in your terminal
 
