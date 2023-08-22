@@ -9,8 +9,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.5",
+    "@react-three/drei": "^9.80.4",
+    "@react-three/fiber": "^8.13.7",
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "react-router-hash-link": "^2.4.3",
+    "react-simple-maps": "2.3.0",
+    "styled-components": "^6.0.7",
+    "three": "^0.155.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
