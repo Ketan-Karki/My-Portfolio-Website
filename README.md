@@ -6,7 +6,7 @@ Welcome to the repository of my personal portfolio website! This website showcas
 
 ## Live Website
 
-You can visit the live version of the website at [https://www.your-portfolio-website.com](https://www.your-portfolio-website.com)
+You can visit the live version of the website at [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
 
 ## Table of Contents
 
@@ -58,4 +58,4 @@ Contributions are welcome! If you find any issues or want to improve the website
 
 Thank you for visiting my portfolio repository! If you have any questions or would like to get in touch, feel free to reach out to me through the contact information provided on the website.
 
-[https://www.your-portfolio-website.com](https://www.your-portfolio-website.com)
+[https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
