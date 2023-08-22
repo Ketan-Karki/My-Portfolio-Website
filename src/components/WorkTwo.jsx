@@ -55,7 +55,7 @@ const Desc = styled.div`
 const WorkTwo = () => {
   return (
     <>
-      <Canvas camera={{ zoom: 0.75 }}>
+      <Canvas camera={{ zoom: 0.5 }}>
         <Stage environment={"dawn"} intensity={0.7}>
           <Spotify />
         </Stage>
