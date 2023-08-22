@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Screenshot.png)
 
 Welcome to the repository of my personal portfolio website! This website showcases my skills, projects, and achievements in the field of Development. Feel free to explore the different sections of the website to get to know me better.
 
